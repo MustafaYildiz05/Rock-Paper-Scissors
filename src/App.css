@@ -9,19 +9,49 @@
 }
 
 .container {
-  max-width: 250px 500px;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 2.1);
-  background-color: #0059ff;
+  background-color: #022568;
 }
 
 .container img {
-  width: 13%;
+  max-width: 250px;
   height: 100%;
   padding: 120px;
   transition: transform 1s;
 }
 
+
 .container img:hover {
   transform: scale(1.2);
+}
+
+.popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #022568;
+  padding: 100px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 4);
+  color: #fff;
+  font-size: 20px;
+}
+
+.popup-content {
+  text-align: left;
+}
+
+.popup-content button {
+  background-color: #750c0c;
+  padding: 20px 210px;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  transition: background-color 1s ease;
+}
+.popup-content button:hover {
+  background-color: #990000;
 }
