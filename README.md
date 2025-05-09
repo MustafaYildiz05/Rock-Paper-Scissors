@@ -22,9 +22,9 @@ Bu projeyi, React kullanarak kendimi yeniden geliştirmek ve zamanla unuttuğum 
 
 ## 🖼️ Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](./public/images/Image1.png)
+![Uygulama Ekran Görüntüsü](./public/images/Image1.jpeg)
 
-![Uygulama Ekran Görüntüsü](./public/images/Image2.png)
+![Uygulama Ekran Görüntüsü](./public/images/Image2.jpeg)
   
 ## 💻 Bilgisayarınızda Çalıştırın
 
