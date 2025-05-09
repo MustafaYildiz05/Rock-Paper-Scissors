@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+<img src="https://uploads.jovemnerd.com.br/wp-content/uploads/2020/06/gravitu-falls-dica-de-desenho.jpg" alt="Image" />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# ✊✋✌️ Rock-Paper-Scissors
+<h1>🎯 Amaç:</h1>
+Bu projeyi, React kullanarak kendimi yeniden geliştirmek ve zamanla unuttuğum bazı temel kavramları pekiştirmek için oluşturdum.
+<h1>🧠 Proje Algoritması:</h1>
+<ul>
+<li>Kullanıcı "taş", "kağıt" veya "makas" düğmelerinden birine bastığında, sistem rastgele bir hamle seçer.</li>
 
-## Available Scripts
+<li>Eğer sistemin seçtiği hamle, kullanıcınınkiyle aynıysa sonuç beraberlik (draw) olarak belirlenir.</li>
 
-In the project directory, you can run:
+<li>Kullanıcı "taş" seçtiyse ve sistem "makas" seçtiyse kullanıcı kazanır, aksi durumda sistem kazanır.</li>
 
-### `npm start`
+<li>Kullanıcı "kağıt" seçtiyse ve sistem "taş" seçtiyse kullanıcı kazanır, aksi durumda sistem kazanır.</li>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<li>Kullanıcı "makas" seçtiyse ve sistem "kağıt" seçtiyse kullanıcı kazanır, aksi durumda sistem kazanır.</li>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<li>Sonuç belirlendikten sonra bir pop-up açılır ve kazanan ekranda gösterilir.</li></ul>
+## 🛠 Kullanılan Teknolojiler
 
-### `npm test`
+**İstemci:** React, JavaScript
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🖼️ Ekran Görüntüleri
 
-### `npm run build`
+![Uygulama Ekran Görüntüsü](./public/images/Image1.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Uygulama Ekran Görüntüsü](./public/images/Image2.png)
+  
+## 💻 Bilgisayarınızda Çalıştırın
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Projeyi klonlayın
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+  git clone https://github.com/MustafaYildiz05/Rock-Paper-Scissors
+```
 
-### `npm run eject`
+Proje dizinine gidin
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+  cd my-project
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Gerekli paketleri yükleyin
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+  npm install
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Sunucuyu çalıştırın
 
-## Learn More
+```bash
+  npm run start
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![LOGO](./public/images/LOGO.png)
