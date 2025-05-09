@@ -1,4 +1,4 @@
-<img src="[https://uploads.jovemnerd.com.br/wp-content/uploads/2020/06/gravitu-falls-dica-de-desenho.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fx.com%2Fhashtag%2FGravityFacts%3Fsrc%3Dhashtag_click&psig=AOvVaw3lZY6WzLudzJRgOulVp2Nb&ust=1746875470586000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCqsMOglo0DFQAAAAAdAAAAABAE)" alt="Image" />
+<img src="https://pbs.twimg.com/media/CaKk-dBWIAASMhT.jpg" alt="Image" />
 
 # ✊✋✌️ Rock-Paper-Scissors
 <h1>🎯 Amaç:</h1>
