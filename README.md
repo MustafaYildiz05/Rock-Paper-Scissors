@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/media/CaKk-dBWIAASMhT.jpg" alt="Image" />
+<img src="https://m.media-amazon.com/images/M/MV5BMGI1NjQ3OWUtYzMxYy00NzU1LWIzMjgtNzZlMGQzYWQ1ZmY2XkEyXkFqcGc@._V1_.jpg" alt="Image" />
 
 # ✊✋✌️ Rock-Paper-Scissors
 <h1>🎯 Amaç:</h1>
