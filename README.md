@@ -16,7 +16,7 @@ Bu projeyi, React kullanarak kendimi yeniden geliştirmek ve zamanla unuttuğum 
 <li>Kullanıcı "makas" seçtiyse ve sistem "kağıt" seçtiyse kullanıcı kazanır, aksi durumda sistem kazanır.</li>
 
 <li>Sonuç belirlendikten sonra bir pop-up açılır ve kazanan ekranda gösterilir.</li></ul>
-## 🛠 Kullanılan Teknolojiler
+<h1>🛠 Kullanılan Teknolojiler</h1>
 
 **İstemci:** React, JavaScript
 
@@ -26,7 +26,7 @@ Bu projeyi, React kullanarak kendimi yeniden geliştirmek ve zamanla unuttuğum 
 
 ![Uygulama Ekran Görüntüsü](./public/images/Image2.jpeg)
   
-## 💻 Bilgisayarınızda Çalıştırın
+<h1>💻 Bilgisayarınızda Çalıştırın</h1>
 
 Projeyi klonlayın
 
